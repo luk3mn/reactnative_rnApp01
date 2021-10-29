@@ -1,2 +1,2 @@
 # rnApp01
-Aplicativ desenvolvido durante a disciplina de tópicos especiais em computação
+Aplicativo desenvolvido durante a disciplina de tópicos especiais em computação para inciar os estudos de react native
